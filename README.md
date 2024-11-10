@@ -5,7 +5,7 @@
 
 ---
 
-### A little more about me...
+### A little more about me... 
 
 ```javascript
 const Gustavo = {
@@ -15,5 +15,6 @@ const Gustavo = {
     
     challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 };
-
-I love connecting with different people, so if you want to say hi, I'll be happy to meet you more! 
+````
+---
+*I love connecting with different people, so if you want to say hi, I'll be happy to meet you more!* 
