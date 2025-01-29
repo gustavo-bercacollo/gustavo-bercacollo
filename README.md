@@ -11,7 +11,7 @@
 const Gustavo = {
     pronouns: "he" | "him", 
     code: ["Javascript", "Typescript", "HTML", "CSS", "Java", "SQL"],
-    tools: ["React", "React Native", Node", "Styled-Components", "Docker", "Knex.js", "Zod", "Prisma", "JWT"],
+    tools: ["React", "React Native", Node", "Styled-Components", "Docker", "Knex.js", "Zod", "Prisma", "JWT", "Scrum", "Jira".],
     
     challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 };
