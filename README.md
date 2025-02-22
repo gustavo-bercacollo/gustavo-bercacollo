@@ -17,4 +17,12 @@ const Gustavo = {
 };
 ````
 ---
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-bercacollo&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false&title_color=29903b&color=29903b&bg_color=182725" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 *I love connecting with different people, so if you want to say hi, I'll be happy to meet you more!* 
+
